@@ -1,4 +1,4 @@
-# WS20
+# WS19
 
 Next.js 15 App Router · TypeScript · Tailwind CSS v4 · Supabase · AssoConnect API · Deployed on Vercel.
 
@@ -20,6 +20,6 @@ Next.js 15 App Router · TypeScript · Tailwind CSS v4 · Supabase · AssoConnec
 
 ## Deployment
 - All env vars live on Vercel — never commit secrets.
-- Push to `main` → production (`https://assoconnect-ws20.vercel.app/`).
+- Push to `main` → production (`https://assoconnect-ws19.vercel.app/`).
 - Push to any branch + open a PR → Vercel Deploy Preview.
 - After pushing, tell the user the URL and what to look for.
